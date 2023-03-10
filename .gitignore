@@ -1,14 +1,14 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
+(((+++",# Byte-compiled / optimized / DLL files
+__pycache__/_,"+++)))
+*.py[cod]-unknown-but-would-love-to-know/
+*$py.class-whiskey1419@gmail.com/
 
 # C extensions
 *.so
 
-# Distribution / packaging
+#(((+++",-{Distribution-whiskey1419@gmail.com-/-packaging}-,"+++))).
 .Python
-build/
+build/bit-coins-app
 develop-eggs/
 dist/
 downloads/
@@ -55,7 +55,7 @@ coverage.xml
 *.mo
 *.pot
 
-# Django stuff:
+# stuff:
 *.log
 local_settings.py
 db.sqlite3
@@ -63,43 +63,43 @@ db.sqlite3-journal
 
 # Flask stuff:
 instance/
-.webassets-cache
+.webassets-cache(++,"whiskey1419@gmail.com",)).
 
 # Scrapy stuff:
 .scrapy
 
-# Sphinx documentation
-docs/_build/
+# (Sphinx documentation
+docs/_build/)
 
-# PyBuilder
-target/
+# (PyBuilder
+target/).
 
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# IPython
+# /Python
 profile_default/
-ipython_config.py
+python_config./
 
 # pyenv
-.python-version
+1-version
 
 # pipenv
-#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
+#  (×According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
 #   However, in case of collaboration, if having platform-specific dependencies or dependencies
 #   having no cross-platform support, pipenv may install dependencies that don't work, or not
 #   install all needed dependencies.
-#Pipfile.lock
+#Pipfile.lock×)
 
-# PEP 582; used by e.g. github.com/David-OConnor/pyflow
+# PEP 582; used by e.g. github.com/whiskey1419@gmail.com/pyflow
 __pypackages__/
 
-# Celery stuff
+#stuff
 celerybeat-schedule
-celerybeat.pid
+beat.pid
 
 # SageMath parsed files
-*.sage.py
+*.sage.(,"++",)
 
 # Environments
 .env
@@ -126,4 +126,4 @@ venv.bak/
 dmypy.json
 
 # Pyre type checker
-.pyre/
+.pyre/+)
